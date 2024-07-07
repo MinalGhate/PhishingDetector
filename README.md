@@ -10,15 +10,13 @@ The study presents a machine learning-based system to mitigate malicious emails 
 ```bash
 cd frontend
 npm run build
-""" Go to chrome, go to extensions , turn on developers mode , select 'Load Unpacked' , select the build folder so created.
-You'll have the extension added in Chrome. """
-```
+
 
 # in another terminal
 cd backend
 pip install -r requirements.txt
 python app.py
-#(make sure to change the routes in the frontend)
+
 ```
 
 
